@@ -3711,7 +3711,7 @@
 		(dnp no)
 		(uuid "35177d97-b34c-4207-b4c9-016d2f734b4c")
 		(property "Reference" "J2"
-			(at 41.91 33.274 0)
+			(at 41.91 23.368 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4910,10 +4910,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9572ac54-c542-4297-bbcc-069eb99e7cc0")
 		(property "Reference" "J1"
-			(at 41.91 39.37 0)
+			(at 41.656 42.672 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
