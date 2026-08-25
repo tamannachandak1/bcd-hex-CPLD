@@ -117,16 +117,16 @@
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
-			(plot_black_and_white yes)
+			(plot_black_and_white no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 4)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -2413,6 +2413,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Seeing the Nibble: A Breadboard-Friendly Hexadecimal Display \nfor Teaching Digital Logic and Programmable Hardware"
+		(at 143.5 108 90)
+		(layer "F.SilkS")
+		(uuid "47f53796-b2ef-4a90-9143-503e60cc33ed")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "7 Segment Display\n"
 		(at 163.5 78.5 90)
 		(layer "F.SilkS")
@@ -2435,18 +2447,6 @@
 				(thickness 0.1)
 			)
 			(justify left bottom)
-		)
-	)
-	(gr_text "Seeing the Nibble: A Breadboard-Friendly Hexadecimal Display for \nTeaching Digital Logic and Programmable Hardware"
-		(at 143.5 88.5 90)
-		(layer "F.SilkS")
-		(uuid "47f53796-b2ef-4a90-9143-503e60cc33ed")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify bottom)
 		)
 	)
 	(segment
